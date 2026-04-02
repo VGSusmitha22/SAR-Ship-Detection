@@ -96,6 +96,3 @@ This project focuses on detecting ships in Synthetic Aperture Radar (SAR) images
 **Susmitha VG**
 🔗 https://github.com/VGSusmitha22
 
----
-
-⭐ If you found this useful, consider giving a star!
